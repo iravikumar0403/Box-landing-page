@@ -63,6 +63,7 @@ main{
     width: 40%;
     margin: 3%;
     justify-content: space-evenly;
+
 }
 #new-feature{
     border: none;
@@ -167,6 +168,9 @@ footer{
     #main-container{
         margin:0;
         padding:0;
+    }
+    #first-section{
+        text-align: center;
     }
     #second-section{
         width:100%;
